@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Neokila
+- 👋 Hi, I’m @Lapdum
 - 👀 I’m interested in data structure, data science, and those that are related
-- 🌱 I’m currently learning c++, c#, Java, Python, R, MySQL
+- 🌱 I’m currently learning C++, C#, and Python
 
 <!---
 Neokila/Neokila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
